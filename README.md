@@ -25,7 +25,7 @@ NumPy is the fundamental package for scientific computing in Python which provid
 
 ## Installation
 
-Clone the repository: git clone https://github.com/your_username/face-recognition-app.git
+Clone the repository
 
 Navigate to the project directory: cd face-recognition-app
 
